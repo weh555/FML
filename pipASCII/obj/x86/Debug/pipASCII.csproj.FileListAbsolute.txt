@@ -1,0 +1,7 @@
+F:\term_6\demo\pipASCII\pipASCII\bin\Debug\pipASCII.exe
+F:\term_6\demo\pipASCII\pipASCII\bin\Debug\pipASCII.pdb
+F:\term_6\demo\pipASCII\pipASCII\obj\x86\Debug\pipASCII.Form1.resources
+F:\term_6\demo\pipASCII\pipASCII\obj\x86\Debug\pipASCII.Properties.Resources.resources
+F:\term_6\demo\pipASCII\pipASCII\obj\x86\Debug\pipASCII.csproj.GenerateResource.Cache
+F:\term_6\demo\pipASCII\pipASCII\obj\x86\Debug\pipASCII.exe
+F:\term_6\demo\pipASCII\pipASCII\obj\x86\Debug\pipASCII.pdb
